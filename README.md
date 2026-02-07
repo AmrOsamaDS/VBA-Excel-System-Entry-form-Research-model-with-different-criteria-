@@ -57,8 +57,9 @@ This project features a custom-built Automated Client Management System develope
 
 ## Author
 Amr Osama
--  Data Scientist | Power BI & Automation Developer
 
-- LinkedIn: https://www.linkedin.com/in/amr-osama-el-sayed
+Data Scientist | Power BI & Automation Developer
 
-- Portfolio: https://mostaql.com/u/Amr_Osama_EL/portfolio
+ LinkedIn: https://www.linkedin.com/in/amr-osama-el-sayed
+
+ Portfolio: https://mostaql.com/u/Amr_Osama_EL/portfolio
