@@ -56,7 +56,8 @@ This project features a custom-built Automated Client Management System develope
 - Add data via the entry form or search for existing records using the search form.
 
 ## Author
-- Amr Osama Data Scientist | Power BI & Automation Developer
+Amr Osama
+-  Data Scientist | Power BI & Automation Developer
 
 - LinkedIn: https://www.linkedin.com/in/amr-osama-el-sayed
 
